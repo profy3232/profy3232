@@ -1,5 +1,3 @@
-![Banner](https://user-images.githubusercontent.com/108219142/210269554-83e3dfa0-cd0f-46ad-8b98-3b4660df7fd7.gif)
-
 I love being in challenging, fast-paced situations - since it fuels me to be better, strive higher than I normally would.  
   
 That's it. No cringy ass long descriptions about me here. Reach out to get the deets / know me better! [Resume](https://adityac.xyz/src/resume/AdityaChakravortyCV.pdf)  
