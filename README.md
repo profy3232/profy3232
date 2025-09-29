@@ -41,6 +41,4 @@ That's it. No cringy ass long descriptions about me here. Reach out to get the d
     <img src="https://github-readme-stats.vercel.app/api?username=hannesxc&count_private=true&show_icons=true&theme=merko&line_height=27">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hannesxc&count_private=true">
   </div>
-  <br><br>
-  <img src="https://enbu4fjkth8sznp.m.pipedream.net" title="counter">
 </div>
