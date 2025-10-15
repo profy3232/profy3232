@@ -1,6 +1,6 @@
 I love being in challenging, fast-paced situations - since it fuels me to be better, strive higher than I normally would.  
   
-That's it. No cringy ass long descriptions about me here. Reach out to get the deets / know me better! [Resume](https://adityac.xyz/src/resume/AdityaChakravortyCV.pdf)  
+That's it. No cringy ass long descriptions about me here. Reach out to get the deets / know me better!
 <br><br>
 <div id="main" align="center">
   Reach me on<br><br>
