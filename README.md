@@ -5,7 +5,7 @@ That's it. No cringy ass long descriptions about me here. Reach out to get the d
 <div id="main" align="center">
   Reach me on<br><br>
   <div id="socials">
-    <a href="https://www.linkedin.com/in/profy/"><img src="https://img.shields.io/badge/LinkedIn-8a817c?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+    <a href="https://www.linkedin.com/in/profy-3232/"><img src="https://img.shields.io/badge/LinkedIn-8a817c?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
     <a href="https://www.facebook.com/profy.18"><img src="https://img.shields.io/badge/Facebook-606c38?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/></a>
     <a href="https://wa.me/380951686194"><img src="https://img.shields.io/badge/WhatsApp-99582a?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/></a>
     <a href="https://www.credly.com/users/profy"><img src="https://img.shields.io/badge/Credly-003566?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge"/></a>
